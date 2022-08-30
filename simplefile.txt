@@ -1,9 +1,5 @@
 Every(change on line1)
 Good
-<<<<<<< HEAD
-Boy(change on line 3)
-=======
-Boy(change on line3)
->>>>>>> alternative
+
 Deserves
 Favor(change on line 5)
